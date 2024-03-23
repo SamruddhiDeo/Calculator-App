@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#E3DEDA</color>
+    <color name="answerBg">#BFBFA2</color>
+    <color name="gridBg">#CEC0B6</color>
+    <color name="operatorBtnBg">#EAB071</color>
+    <color name="operatorBtnBorder">#E39744</color>
+    <color name="numberBtnBg">#F1ECE7</color>
+    <color name="numberBtnBorder">#E4D8CA</color>
+    <color name="blackBorder">#1A1A1A</color>
+    <color name="greyBg">#4C4C4C</color>
+    <color name="equalBtnBg">#4C4C4C</color>
+    <color name="equalBtnBorder">#8A8192</color>
+    <color name="clearBtnBg">#DB6429</color>
+    <color name="clearBtnBorder">#B14F1E</color>
+    <color name="numberTextColor">#AE4A17</color>
+
+</resources>
